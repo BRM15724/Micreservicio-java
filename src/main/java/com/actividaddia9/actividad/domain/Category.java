@@ -5,6 +5,8 @@ public class Category {
     private Integer categoyId;
     private String name;
 
+
+
     public Integer getCategoyId() {
         return categoyId;
     }
